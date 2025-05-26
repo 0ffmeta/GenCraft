@@ -1,0 +1,5 @@
+
+[llm]
+	#API key for sending / receiving requests and responses from LLM agents
+	apiKey = ""
+

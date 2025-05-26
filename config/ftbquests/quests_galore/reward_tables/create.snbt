@@ -1,0 +1,14 @@
+{
+	id: "6CF1E30626605582"
+	loot_size: 1
+	order_index: 8
+	rewards: [
+		{ item: "create:cogwheel" }
+		{ item: "create:large_cogwheel" }
+		{ item: "createdeco:andesite_sheet" }
+		{ item: "createdeco:zinc_sheet" }
+		{ item: "create:brass_sheet" }
+		{ item: "create:brass_ingot" }
+	]
+	title: "Create"
+}

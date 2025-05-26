@@ -1,0 +1,14 @@
+{
+	icon: "immersive_aircraft:gyrodyne"
+	id: "0C585C5FF85791EA"
+	loot_size: 1
+	order_index: 12
+	rewards: [
+		{ item: "immersive_paintings:glow_painting" }
+		{ item: "minecraft:spruce_fence_gate" }
+		{ item: "minecraft:jungle_fence_gate" }
+		{ item: "quark:stripped_cherry_post" }
+		{ item: "immersive_aircraft:industrial_gears" }
+	]
+	title: "aircraft"
+}

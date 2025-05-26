@@ -1,0 +1,15 @@
+{
+	icon: "create:zinc_ingot"
+	id: "242E386CE5FE2AE7"
+	loot_size: 1
+	order_index: 11
+	rewards: [
+		{ item: "createdeco:zinc_sheet" }
+		{ item: "minecraft:waxed_weathered_cut_copper_stairs" }
+		{ item: "sophisticatedstorage:basic_to_copper_tier_upgrade" }
+		{ item: "minecraft:copper_ingot" }
+		{ item: "create:andesite_alloy" }
+		{ item: "createdeco:andesite_sheet" }
+	]
+	title: "ingot"
+}
